@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Capa_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 32.055 32.055"
+   style="enable-background:new 0 0 32.055 32.055;"
+   xml:space="preserve"
+   sodipodi:docname="threeDots.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
+   id="metadata41"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs39"><filter
+     style="color-interpolation-filters:sRGB;"
+     inkscape:label="Invert"
+     id="filter886"><feColorMatrix
+       type="hueRotate"
+       values="180"
+       result="color1"
+       id="feColorMatrix882" /><feColorMatrix
+       values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 -0.21 -0.72 -0.07 2 0 "
+       result="color2"
+       id="feColorMatrix884" /></filter></defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1137"
+   id="namedview37"
+   showgrid="false"
+   inkscape:zoom="14.163157"
+   inkscape:cx="16.0275"
+   inkscape:cy="16.0275"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Capa_1" />
+<g
+   id="g4"
+   transform="rotate(90,16.0275,16.0275)"
+   style="filter:url(#filter886)">
+	<path
+   d="M 3.968,12.061 C 1.775,12.061 0,13.835 0,16.027 c 0,2.192 1.773,3.967 3.968,3.967 2.189,0 3.966,-1.772 3.966,-3.967 0,-2.192 -1.777,-3.966 -3.966,-3.966 z m 12.265,0 c -2.188,0 -3.968,1.773 -3.968,3.965 0,2.192 1.778,3.967 3.968,3.967 2.19,0 3.97,-1.772 3.97,-3.967 -0.002,-2.191 -1.78,-3.965 -3.97,-3.965 z m 11.857,0 c -2.192,0 -3.969,1.774 -3.969,3.967 0,2.19 1.774,3.965 3.969,3.965 2.188,0 3.965,-1.772 3.965,-3.965 0,-2.193 -1.777,-3.967 -3.965,-3.967 z"
+   id="path2" />
+</g>
+<g
+   id="g6">
+</g>
+<g
+   id="g8">
+</g>
+<g
+   id="g10">
+</g>
+<g
+   id="g12">
+</g>
+<g
+   id="g14">
+</g>
+<g
+   id="g16">
+</g>
+<g
+   id="g18">
+</g>
+<g
+   id="g20">
+</g>
+<g
+   id="g22">
+</g>
+<g
+   id="g24">
+</g>
+<g
+   id="g26">
+</g>
+<g
+   id="g28">
+</g>
+<g
+   id="g30">
+</g>
+<g
+   id="g32">
+</g>
+<g
+   id="g34">
+</g>
+</svg>

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Västtrafik-spelet</title>
+    <link rel="stylesheet" href="main2.css">
+    <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js
+
+
+
+"></script>
+</head>
+
+<body>
+    <div class="myMenu">
+        <h2 id="instruktioner" onclick="toggle2()">Instruktioner</h2>
+        <h2 id="sparadeResor" onclick="toggle()">Sparade resor</h2>
+        <div id="sparad"></div>
+        <div id="sparad2">
+            <p> * Hur många minuter tar det mellan stationerna?</p>
+            <p>* 20% felmarginal tillåts &#128526; </p>
+            <p> * Gissa rätt tre gånger och vinn en kungakrona &#128081;</p>
+        </div>
+    </div>
+    <header>
+        <a href="index.html">
+            <img id="arrow" src="bilder/whiteArrow.svg" alt="goBack">
+        </a>
+        <h1>Vad är restiden?</h1>
+        <img id="menu" onclick="showMenu()" src="bilder/threeDots.svg" alt="Menu">
+    </header>
+    <div class="resmal">
+        <img id="aTillB" src="bilder/aTillB.svg" alt="trip">
+        <div class="resor"></div>
+        <img id="star" onclick="sparaResa()" src="bilder/star.svg" alt="saveTrip">
+    </div>
+    <div class="avgangsTid">
+    </div>
+    <div class="input">
+        <input id="answer" name="minuter" type="number">
+        <br>
+        <button id="skicka">Skicka</button>
+
+        <h2 id="return"></h2>
+        <h2 id="return2"></h2>
+    </div>
+
+    <div class="points">
+        <img id="points-0" src="bilder/wrong.svg" alt="point1">
+        <img id="points-1" src="bilder/wrong.svg" alt="point2">
+        <img id="points-2" src="bilder/wrong.svg" alt="point3">
+    </div>
+
+    <div onclick="toggle3()" class="vunnaSpel">
+        <h2>Statistik</h2>
+
+        <h2 id="vunnaSpel"></h2>
+    </div>
+    <canvas id="myChart"></canvas>
+    <script src="script.js"></script>
+</body>
+
+</html>

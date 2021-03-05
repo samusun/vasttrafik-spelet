@@ -1,0 +1,174 @@
+body {
+    margin: 0;
+    width: 100vw;
+    max-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    background-color: deepskyblue;
+    color: rgb(255, 255, 251);
+    font-size: 2vh;
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: bold;
+    font-family: 'Archivo Black', sans-serif;
+}
+
+.myMenu {
+    width: 68vw;
+    background-color: deepskyblue;
+    color: white;
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 12px;
+    height: 10vh;
+    position: absolute;
+    top: 0;
+    left: 15vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    visibility: hidden;
+}
+
+#sparad,
+#sparad2 {
+    position: absolute;
+    font-size: 14px;
+    left: -10vh;
+    top: 9vh;
+    width: 96vw;
+    height: 42vh;
+    background-image: linear-gradient(deepskyblue, white);
+    color: white;
+    padding-left: 4vh;
+}
+
+#arrow {
+    height: 4vh;
+    margin-left: 3%;
+}
+
+#menu {
+    height: 4vh;
+    margin-right: 3%;
+}
+
+#aTillB {
+    height: 8vh;
+    margin-top: 3vh;
+    margin-left: 3%;
+}
+
+.resmal {
+    padding-top: 3vh;
+    display: flex;
+}
+
+.resor {
+    height: 15vh;
+    font-size: 3vh;
+    margin-left: 6%;
+    width: 65%;
+}
+
+#star {
+    margin-top: 4vh;
+    height: 6vh;
+}
+
+.avgangsTid {
+    margin-top: 3vh;
+    height: 8vh;
+    background-color: rgb(202, 202, 202);
+    width: 100%;
+}
+
+.input {
+    height: 33vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2vh;
+}
+
+input {
+    background-color: #ffffff;
+    padding: 12px;
+    width: 30%;
+    border: solid black 5px;
+    font-size: 25px;
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+    outline: none;
+}
+
+button {
+    max-height: 25em;
+    padding: 2vh;
+    width: 35vh;
+    font-size: 3vh;
+    background-color: rgb(245, 130, 20);
+    color: white;
+    font-family: 'Archivo Black', sans-serif;
+    font-weight: bold;
+}
+
+#return {
+    justify-content: center;
+    align-items: center;
+}
+
+#return2 {
+    font-weight: bold;
+    color: rgb(255, 32, 236);
+    margin: 0;
+    font-size: 5vh;
+}
+
+.points {
+    display: flex;
+    justify-content: space-around;
+}
+
+.points img {
+    height: 17vh;
+}
+
+.vunnaSpel {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 3vh;
+    margin-bottom: 0;
+    width: 100%;
+    background-color: deepskyblue;
+    color: rgb(255, 255, 255);
+    font-family: 'Archivo Black', sans-serif;
+}
+
+#vunnaSpel {
+    margin: 0;
+    font-size: 4vh;
+    transition: width 2s, height 2s, transform 2s;
+}
+
+#myChart {
+    position: absolute;
+    background-image: linear-gradient(white, deepskyblue);
+    margin: 0;
+    bottom: 6vh;
+    width: 10vw;
+    height: 50vh;
+    visibility: hidden;
+}
+
+#points-0,
+#points-1,
+#points-2 {
+    transition: width 2s, height 2s, transform 2s;
+}

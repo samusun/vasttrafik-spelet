@@ -1,0 +1,32 @@
+body {
+    overflow: hidden;
+    background-color: rgb(0, 172, 234);
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    color: rgb(255, 255, 251);
+    width: 50vh;
+    margin-top: 16vh;
+    margin-bottom: 13vh;
+    font-size: 2em;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Archivo Black', sans-serif;
+}
+
+img {
+    height: 30vh;
+    border: solid gray 5px;
+    border-radius: 5%;
+    box-shadow: 20px 18px 25px -5px rgba(0, 0, 0, 0.74);
+}
+
+img:hover {
+    -webkit-filter: brightness(110%);
+}

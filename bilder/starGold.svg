@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="25.347282mm"
+   height="24.039742mm"
+   viewBox="0 0 25.347283 24.039742"
+   version="1.1"
+   id="svg4040"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="starGold.svg">
+  <defs
+     id="defs4034">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Channel Painting"
+       id="filter1317"
+       x="-0.0020681667"
+       width="1.0041363"
+       y="-0.0021680966"
+       height="1.0043362">
+      <feColorMatrix
+         values="0.532934"
+         type="saturate"
+         result="colormatrix1"
+         id="feColorMatrix1301" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -4.51807 1.26506 0.963855 -7.89157 0 "
+         in="SourceGraphic"
+         result="colormatrix2"
+         id="feColorMatrix1303" />
+      <feFlood
+         flood-color="rgb(246,246,15)"
+         flood-opacity="0.694118"
+         result="flood"
+         id="feFlood1305" />
+      <feComposite
+         in2="colormatrix2"
+         operator="out"
+         result="composite1"
+         id="feComposite1307" />
+      <feMerge
+         result="merge"
+         id="feMerge1313">
+        <feMergeNode
+           in="colormatrix1"
+           id="feMergeNode1309" />
+        <feMergeNode
+           in="composite1"
+           id="feMergeNode1311" />
+      </feMerge>
+      <feComposite
+         in="merge"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite2"
+         id="feComposite1315" />
+      <feGaussianBlur
+         stdDeviation="0.0208163"
+         id="feGaussianBlur1617" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1629"
+       x="-0.0012200105"
+       width="1.00244"
+       y="-0.0012789591"
+       height="1.0025579">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.012279525"
+         id="feGaussianBlur1631" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="71.470764"
+     inkscape:cy="49.371181"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4037">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-3.6046911,-54.175253)">
+    <path
+       sodipodi:type="star"
+       style="opacity:1;mix-blend-mode:normal;fill:#f3ff46;fill-opacity:1;stroke:#636363;stroke-width:1.1469207;stroke-miterlimit:3.9000001;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1629)"
+       id="path4649"
+       sodipodi:sides="5"
+       sodipodi:cx="7.3374109"
+       sodipodi:cy="76.066078"
+       sodipodi:r1="12.700225"
+       sodipodi:r2="5.588099"
+       sodipodi:arg1="0.93324753"
+       sodipodi:arg2="1.5615661"
+       inkscape:flatsided="false"
+       inkscape:rounded="-2.4633073e-16"
+       inkscape:randomized="0"
+       d="m 14.896935,86.271435 -7.5079454,-4.617496 -7.42142871,4.755302 2.07141711,-8.567365 -6.8159086,-5.588729 8.7881512,-0.677426 3.2089655,-8.209327 3.3599589,8.148693 8.799159,0.515086 -6.711583,5.713595 z"
+       inkscape:transform-center-x="0.038010636"
+       inkscape:transform-center-y="-1.2292377"
+       transform="matrix(1.0493059,0,0,1.0432625,8.6171539,-11.932529)" />
+  </g>
+</svg>
